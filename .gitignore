@@ -1,0 +1,8 @@
+# Fichiers système macOS
+.DS_Store
+
+# Fichiers système Windows
+Thumbs.db
+
+# Dossier contenant les clés API
+secrets/ 
