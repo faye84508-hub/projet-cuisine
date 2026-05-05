@@ -2,7 +2,7 @@
 
 ## Ingrédients
 - 250g de farine
-- 3 œufs
+- 3 oeufs
 - 500ml de lait
 - 1 pincée de sel
 
